@@ -9,5 +9,5 @@ baseurl = "/"
 
 [[redirects]]
   from = "/*"
-  to = "/docs/src/index.md"
+  to = "/docs/src/.vuepress/dist/index.html"
   status = 200
