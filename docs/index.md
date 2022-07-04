@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Portfolio for WebProfits, built with Vuepress and Netlify CMS
+tagline: Test
 actionText: Quick Start →
 actionLink: /guide/
 features:
