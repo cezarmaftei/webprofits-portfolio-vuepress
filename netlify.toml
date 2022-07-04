@@ -9,5 +9,5 @@ baseurl = "/"
 
 [[redirects]]
   from = "/*"
-  to = "/index.html"
+  to = "/docs/src/index.html"
   status = 200
