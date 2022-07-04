@@ -1,12 +1,3 @@
-baseurl = "/"
-
-[[headers]]
-  for = "/*"
-  [headers.values]
-    X-Frame-Options = "DENY"
-    X-XSS-Protection = "1; mode=block"
-    X-Robots-Tag = "noindex"
-
 [build]
   command = "yarn build"
-  publish = "docs/.vuepress/dist/"
+  publish = "docs/src/.vuepress/dist/"
