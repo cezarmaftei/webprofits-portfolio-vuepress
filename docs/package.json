@@ -1,0 +1,19 @@
+{
+  "name": "webprofits-portfolio-vuepress",
+  "version": "0.0.1",
+  "description": "Portfolio for WebProfits, built with Vuepress and Netlify CMS",
+  "main": "index.js",
+  "authors": {
+    "name": "Cezar Maftei",
+    "email": "cezar.maftei@gmail.com"
+  },
+  "repository": "https://github.com/cezarmaftei/webprofits-portfolio-vuepress",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
