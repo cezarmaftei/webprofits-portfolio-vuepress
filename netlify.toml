@@ -8,5 +8,5 @@ baseurl = "/"
     X-Robots-Tag = "noindex"
 
 [build]
-  command = "yarn docs:build"
+  command = "yarn build"
   publish = "docs/.vuepress/dist/"
